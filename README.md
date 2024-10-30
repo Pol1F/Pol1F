@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ## 📂 Mes Projets
 Voici quelques-uns des projets dont je suis particulièrement fier :
 
 ### Crocoquizz : https://crocoquizz.noesora.fr/
-**Description** : Application de quiz reserver dans le cadre du privé pour realiser des quiz sur l'histoire de la marque pour permettre l'apprentissage du storytelling de la marque aux collegues 
-**Technologies** : HTML, CSS, JavaScript
+**Description** : En tant que vendeur chez Lacoste, j'ai developper cette application de quiz reserver dans le cadre du privé afin de realiser des quizs sur l'histoire de la marque pour permettre l'apprentissage du storytelling de la marque aux collegues 
+**Technologies** : HTML, CSS, JavaScript, nodeJs, React
 
 ---
 
