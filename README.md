@@ -3,12 +3,14 @@ Voici quelques-uns des projets dont je suis particulièrement fier :
 
 ### Crocoquizz : http://crocoquizz.noesora.fr/
 **Description** : En tant que vendeur chez Lacoste, j'ai developper cette application de quiz reserver dans le cadre du privé afin de realiser des quizs sur l'histoire de la marque pour permettre l'apprentissage du storytelling de la marque aux collegues 
+#
 **Technologies** : HTML, CSS, JavaScript, nodeJs, React
 
 ---
 
 ### Noesora : https://noesora.fr/
 **Description** : Site portfolio de la photographe noesora
+#
 **Technologies** : WordPress
 
 <!--
