@@ -1,8 +1,13 @@
 ## 📂 Mes Projets
 Voici quelques-uns des projets dont je suis particulièrement fier :
 
+### La couleur du Zèbre formations : https://www.formation.lacouleurduzebre.com/
+**Description** : Refonte du site de formation de l'agence La couleur du Zèbre durant mon stage
+#
+**Technologies** : Wordpress, HTML, CSS, SCSS, JavaScript, JQuery, ACF
+
 ### Crocoquizz : http://crocoquizz.noesora.fr/
-**Description** : En tant que vendeur chez Lacoste, j'ai developper cette application de quiz reserver dans le cadre du privé afin de realiser des quizs sur l'histoire de la marque pour permettre l'apprentissage du storytelling de la marque aux collegues 
+**Description** : En tant que vendeur chez Lacoste, j'ai développé cette application de quiz à usage privé afin de proposer des questionnaires sur l'histoire de la marque, dans le but de faciliter l'apprentissage du storytelling de Lacoste auprès de mes collègues
 #
 **Technologies** : HTML, CSS, JavaScript, React, NodeJs
 
@@ -11,19 +16,4 @@ Voici quelques-uns des projets dont je suis particulièrement fier :
 ### Noesora : https://noesora.fr/
 **Description** : Site portfolio de la photographe Noesora
 #
-**Technologies** : WordPress
-
-<!--
-**Pol1F/Pol1F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies** : WordPress, Elementor Pro
