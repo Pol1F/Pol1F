@@ -20,9 +20,3 @@ Voici quelques-uns des projets dont je suis particulièrement fier :
 #
 **Technologies** : HTML, CSS, JavaScript, React, NodeJs
 
----
-
-### Noesora : https://noesora.fr/
-**Description** : Site portfolio de la photographe Noesora
-#
-**Technologies** : WordPress, Elementor Pro
