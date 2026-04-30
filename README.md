@@ -1,6 +1,12 @@
 ## 📂 Mes Projets
 Voici quelques-uns des projets dont je suis particulièrement fier :
 
+### Portfolio : https://pol1f.github.io/Portfolio/
+#
+**Technologies** : HTML, CSS, SCSS, JavaScript, GSAP
+
+---
+
 ### La couleur du Zèbre formations : https://www.formation.lacouleurduzebre.com/
 **Description** : Refonte du site de formation de l'agence La couleur du Zèbre durant mon stage
 #
